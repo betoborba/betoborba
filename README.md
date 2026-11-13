@@ -59,15 +59,16 @@ Tecnologias com as quais venho estudando e experimentando:
 ### 📊 Estatísticas
 
 <p align="left">
-    <img
-        alt="Estatísticas do GitHub"
-        height="190"
-        src="https://github-readme-stats.vercel.app/api?username=betoborba&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    />
-    <img
-        alt="Linguagens utilizadas"
-        height="190"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=betoborba&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=8"
-    />
+  <img
+    height="190"
+    alt="Estatísticas do GitHub"
+    src="https://github-stats-extended.vercel.app/api?username=betoborba&show_icons=true&theme=tokyonight&locale=pt-br"
+  />
+  <img
+    height="190"
+    alt="Linguagens utilizadas"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=betoborba&theme=tokyonight&layout=compact&langs_count=8"
+  />
 </p>
+
 
