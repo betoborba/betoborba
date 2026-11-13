@@ -1,17 +1,15 @@
 ## Hi there 👋
 
 
-# 👨🏻‍💻 Roberto Borba
+# ![A Grande Onda de Kanagawa - Hokusai](https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Great_Wave_off_Kanagawa.jpg) Roberto Borba
 
 **`SEO | Tecnologia | Estudante de Programação`**
 
-Olá! Me chamo Roberto Borba e trabalho com marketing digital desde 2017, com foco em SEO, estratégias de conteúdo e análise de dados.
+Hi! My name is Roberto Borba, and I've been working in digital marketing since 2017, focusing on SEO, content strategy, and data analysis.
 
-Atualmente, atuo como Gerente de SEO e tenho ampliado meus conhecimentos em programação, desenvolvimento web e inteligência artificial.
+I currently work as an SEO Manager and have been expanding my knowledge of programming, web development, and artificial intelligence.
 
-Tenho interesse em entender como as tecnologias funcionam e como podem ser aplicadas para resolver problemas do dia a dia.
-
-Este espaço é dedicado aos meus estudos, exercícios e experimentos com programação.
+This space is dedicated to my learning journey, coding exercises, and experiments with technology and programming.
 
 <p align="left">
     <a href="https://github.com/betoborba?tab=followers">
