@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-# ![A Grande Onda de Kanagawa - Hokusai](https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Great_Wave_off_Kanagawa.jpg) Roberto Borba
+#🌊 Roberto Borba
 
 **`SEO | Tecnologia | Estudante de Programação`**
 
