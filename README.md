@@ -60,12 +60,14 @@ Tecnologias com as quais venho estudando e experimentando:
 
 <p align="left">
   <img
-    height="190"
+    align="top"
+    height="200"
     alt="Estatísticas do GitHub"
     src="https://github-stats-extended.vercel.app/api?username=betoborba&show_icons=true&theme=tokyonight&locale=pt-br"
   />
   <img
-    height="190"
+    align="top"
+    height="200"
     alt="Linguagens utilizadas"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=betoborba&theme=tokyonight&layout=compact&langs_count=8"
   />
